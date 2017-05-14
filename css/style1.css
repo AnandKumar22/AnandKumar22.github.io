@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Sans-serif;
-  background: #2c3e50;
+  background: blue;
 }
 
 #wrap {
@@ -109,4 +109,8 @@ a:hover {
 #signup a{
   padding-top:20px;
 }
-
+#name{
+  color:white;
+  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-size: 2em;
+}
